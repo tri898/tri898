@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tri898
-- 👀 I’m interested in PHP (Laravel), NodeJS
+- 👀 I’m interested in PHP, NodeJS
 - 🌱 I’m currently working at Kyanon Digital
 - 📫 Contact me at <a href="https://www.linkedin.com/in/tri-bui-392022231/"><b>LinkedIn</b></a>
 
